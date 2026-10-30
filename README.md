@@ -307,10 +307,10 @@ Unauthorised access to systems you do not own or have written permission to test
 
 # 👤 Author
 
-**&lt;PRADIPTA RAFA MAHESA&gt;**  
+**PRADIPTA RAFA MAHESA**  
 Cybersecurity Intern — Networkwalks Batch B084
 
-LinkedIn: &lt;[link profil LinkedIn Anda](https://www.linkedin.com/in/pradipta-rafa-mahesa-b950bb248/)&gt;
+LinkedIn: https://www.linkedin.com/in/pradipta-rafa-mahesa-b950bb248/;
 
 ---
 
